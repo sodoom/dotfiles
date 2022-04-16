@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sethaodoom@gmail.com
+	name = Seth Odoom
